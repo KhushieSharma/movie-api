@@ -1,0 +1,10 @@
+{
+  "$schema": "https://assets.requestly.com/local/v1.14.0/collection-variables.json",
+  "BaseURL": {
+    "id": "41fffe09-ae7b-4266-9110-1410f0e439b1",
+    "syncValue": "http://localhost:5001",
+    "type": "string",
+    "isEnabled": true,
+    "rank": "hmt3fck5k"
+  }
+}
